@@ -1,5 +1,5 @@
 # csl-msi-undip
-Unofficial CSL (Citation Style Language) Magister Sistem Informasi Universitas Diponegoro
+Unofficial CSL (Citation Style Language) Magister Sistem Informasi Universitas Diponegoro for Mendeley
 
 Baca "readme" docx untuk how to
 ======================================
