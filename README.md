@@ -25,6 +25,7 @@ Setting local bahasa:
 3. Selesai
 
 Change log:
+
 v1 : citation only for Journal
 
 v2 : Based on Harvard Style adapted to MSI UNDIP Thesis
