@@ -5,7 +5,7 @@ Baca "readme" docx untuk how to
 ======================================
 Citation Style Language (CSL) Tesis MSI UNDIP v4,
 Lampiran: "csl-msi-undip-v4.zip"
-Panduan lengkap baca "readme-csl-v4.docx" di dalam zip
+Panduan lengkap baca "readme-csl-v4.docx"
 
 Bagi rekan-rekan yang membutuhkan sitasi dan bibliografi otomatis sesuai panduan tesis msi, berikut kami persembahkan CSL MSI.
 
