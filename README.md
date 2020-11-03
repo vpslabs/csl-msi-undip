@@ -26,8 +26,11 @@ Setting local bahasa:
 
 Change log:
 v1 : citation only for Journal
+
 v2 : Based on Harvard Style adapted to MSI UNDIP Thesis
+
 v3 : Fixed Incompatibility Web Source
+
 v4 : Full author name in bibliography, dkk format in citations
 
 https://github.com/vpslabs/csl-msi-undip
