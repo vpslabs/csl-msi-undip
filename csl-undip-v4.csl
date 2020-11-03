@@ -5,7 +5,7 @@
     <title>TESIS MSI UNDIP v4 - Unofficial CSL Unitversitas Diponegoro</title>
     <title-short>Tesis MSI UNDIP v4</title-short>
     <id>https://github.com/vpslabs/csl-msi-undip</id>
-    <link href="https://github.com/vpslabs/csl-msi-undip/csl-undip-v4.csl" rel="self"/>
+    <link href="https://raw.githubusercontent.com/vpslabs/csl-msi-undip/main/csl-undip-v4.csl" rel="self"/>
     <link href="http://www.ojvr.org/index.php/ojvr/pages/view/authors" rel="documentation"/>
     <link href="http://openjournals.net/files/Ref/HARVARD2009%20Reference%20guide.pdf" rel="documentation"/>
     <author>
