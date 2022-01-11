@@ -1,11 +1,11 @@
-# csl-msi-undip
-Unofficial CSL (Citation Style Language) Magister Sistem Informasi Universitas Diponegoro for Mendeley
+# CSL MSI UNDIP 2021
+Unofficial CSL (Citation Style Language) Magister Sistem Informasi Universitas Diponegoro for Mendeley. Sebuah format daftar pustaka MSI UNDIP yang dapat digunakan pada Mendeley.
 
 Baca "readme" docx untuk how to
 ======================================
 Citation Style Language (CSL) Tesis MSI UNDIP v4,
-Lampiran: "csl-msi-undip-v4.zip"
-Panduan lengkap baca "readme-csl-v4.docx"
+Ini adalah sebuah dokumentasi yang dibuat penulis karena kesulitan menemukan model sitasi yang cocok dengan tuntutan format penulisan daftar pustaka.
+Panduan lengkap baca "readme-csl-v4.pdf"
 
 Bagi rekan-rekan yang membutuhkan sitasi dan bibliografi otomatis sesuai panduan tesis msi, berikut kami persembahkan CSL MSI.
 
@@ -33,5 +33,6 @@ v2 : Based on Harvard Style adapted to MSI UNDIP Thesis
 v3 : Fixed Incompatibility Web Source
 
 v4 : Full author name in bibliography, dkk format in citations
+
 
 https://github.com/vpslabs/csl-msi-undip
